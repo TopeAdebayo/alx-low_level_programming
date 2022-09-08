@@ -11,5 +11,5 @@ int main(void)
 
            puts(new_string);
 
-           return(0);
+           return (0);
 }	   
