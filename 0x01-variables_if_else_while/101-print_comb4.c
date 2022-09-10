@@ -35,7 +35,7 @@ int main(void)
 					if (a != 7)
 					{
 						putchar(',');
-						putchar(',');
+						putchar(' ');
 					}
 				}
 			}
